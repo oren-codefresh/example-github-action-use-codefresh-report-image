@@ -1,3 +1,3 @@
 FROM alpine
-CMD ["echo", "your build imagfe!! integrate"]
+CMD ["echo", "your build imagfe!!  integrate"]
 
